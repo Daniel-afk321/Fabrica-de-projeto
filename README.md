@@ -11,9 +11,11 @@ Um jogo de fases linear baseado em jogos como Hollow Knight
 **Definição do seu gênero (se é de ação, ou RPG, por exemplo)**
 ######
 Um jogo de plataforma 2D
+######
 **Suas mecânicas principais (um conjunto de regras)**
 ######
-Se movimenta somente para esquerda ou direita, combate rápido, e pulo dinâmico, se a vida chegar a zero a fase ira ser reiniciada  
+Se movimenta somente para esquerda ou direita, combate rápido, e pulo dinâmico, se a vida chegar a zero a fase ira ser reiniciada
+######
 **Uma breve descrição da história do jogo**
 ######
 Graças a um rio tóxico de origem desconhecida, criaturas começaram a surgir dele e fizeram um caos
@@ -21,6 +23,7 @@ Graças a um rio tóxico de origem desconhecida, criaturas começaram a surgir d
 **Diferencial do jogo projetado em relação aos jogos da concorrência**
 ######
 A direção de arte do jogo é bem distinta das concorrentes
+######
 **Sistema operacional ou plataforma em que o jogo funcionará e será publicado**
 ######
 Em plataformas Windows, pois é a mais utilizada e mais pratica
